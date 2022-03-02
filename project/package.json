@@ -42,7 +42,7 @@
         "react-bootstrap-slider": "^2.1.5",
         "react-paginate": "^6.0.0",
         "styled-components": "^4.1.2",
-        "url-parse": "^1.4.4",
+        "url-parse": "^1.5.9",
         "vue-router": "^3.0.6"
     }
 }
